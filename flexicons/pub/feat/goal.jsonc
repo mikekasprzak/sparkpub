@@ -1,0 +1,10 @@
+{
+  "flexicon": 1,
+  "id": "pub.feat.goal",
+  "extends": ["pub.spark.record.object"]
+  "description": "FeatPub Goals (Achievements)",
+  "main": {
+    "type": "record",
+    "key": "nsid",
+  }
+}

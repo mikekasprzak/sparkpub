@@ -1,0 +1,9 @@
+{
+  "flexicon": 1,
+  "id": "pub.spark.record.blob",
+  "extends": ["pub.spark.record.object"],
+  "description": "Core Spark type for a thing of substance (i.e. a user, a blog post, a comment)",
+  "main": {
+    "type": "record",
+  }
+}
