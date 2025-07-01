@@ -2,7 +2,6 @@
   "flexicon": 1,
   "id": "pub.spark.record.object",
   "description": "Core Spark type for a thing of substance (i.e. a user, a blog post, a comment)",
-  "main": {
-    //"type": { "type": "string" } // Do we even need a type if we have an id?
+  "record": {
   }
 }

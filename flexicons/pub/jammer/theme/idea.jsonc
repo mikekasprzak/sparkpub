@@ -3,7 +3,7 @@
   "id": "pub.jammer.theme.idea",
   "extends": ["pub.spark.record.object"]
   "description": "Jammer Theme Ideas (Suggestions)",
-  "main": {
-    "type": "record"
+  "record": {
+    "key": "tsid"
   }
 }

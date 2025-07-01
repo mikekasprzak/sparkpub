@@ -1,7 +1,7 @@
 {
   "flexicon": 1,
   "id": "pub.spark.meta.flexicon",
-  "main": {
+  "record": {
     "properties": {
       "flexicon": { "type": "integer", "const": 1 },
       "id": { "type": "string", "format": "nsid" },

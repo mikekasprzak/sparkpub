@@ -3,8 +3,7 @@
   "id": "pub.feat.goal",
   "extends": ["pub.spark.record.object"]
   "description": "FeatPub Goals (Achievements)",
-  "main": {
-    "type": "record",
+  "record": {
     "key": "nsid",
   }
 }

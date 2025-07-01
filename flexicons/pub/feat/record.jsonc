@@ -3,8 +3,7 @@
   "id": "pub.feat.record",
   "extends": ["pub.spark.record.object"]
   "description": "FeatPub Record, a user instance of somethnig goal",
-  "main": {
-    "type": "record",
-    "key": "tid",
+  "record": {
+    "key": "tsid",
   }
 }

@@ -3,8 +3,6 @@
   "id": "pub.spark.record.actor",
   "extends": ["pub.spark.record.short"],
   "description": "Core Spark type for Actors (i.e. users)",
-  "main": {
-    "type": "record",
-
+  "record": {
   }
 }

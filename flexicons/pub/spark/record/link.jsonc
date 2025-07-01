@@ -2,6 +2,6 @@
   "flexicon": 1,
   "id": "pub.spark.record.link",
   "description": "Core Spark type for a non-parent/non-child relationship...I guess?",
-  "main": {
+  "record": {
   }
 }

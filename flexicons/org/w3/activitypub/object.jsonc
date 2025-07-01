@@ -1,0 +1,25 @@
+{
+  "flexicon": 1,
+  "id": "org.w3.activitypub.object",
+  "extends": ["..activitystreams.object"],
+  "object": {
+    "properties": {
+      "type": { "ref": "#objectTypes" },
+
+      "source": { "ref": ".properties#source" },
+
+      // FEP 8b32
+      "proof": { "ref": "org.w3id.fep.8b32.properties#proof" }
+    }
+  },
+  "defs": {
+    "objectTypes": {
+      "type": "string",
+      "extends": ["..activitystreams.object#objectTypes"],
+      "knownValues": [
+        "PropertyValue",
+        "Emoji"
+      ]
+    }
+  }
+}

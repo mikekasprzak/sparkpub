@@ -3,7 +3,6 @@
   "id": "pub.spark.record.short",
   "extends": ["pub.spark.record.object"],
   "description": "Core Spark type for short posts (i.e. comments)",
-  "main": {
-    "type": "record",
+  "record": {
   }
 }

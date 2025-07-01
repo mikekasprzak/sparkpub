@@ -3,8 +3,6 @@
   "id": "pub.spark.record.long",
   "extends": ["pub.spark.record.object"],
   "description": "Core Spark type for long posts (i.e. articles, blogs)",
-  "main": {
-    "type": "record",
-
+  "record": {
   }
 }
