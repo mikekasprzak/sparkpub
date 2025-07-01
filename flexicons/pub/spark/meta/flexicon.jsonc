@@ -1,0 +1,10 @@
+{
+  "flexicon": 1,
+  "id": "pub.spark.meta.flexicon",
+  "main": {
+    "properties": {
+      "flexicon": { "type": "integer", "const": 1 },
+      "id": { "type": "string", "format": "nsid" },
+    }
+  }
+}
