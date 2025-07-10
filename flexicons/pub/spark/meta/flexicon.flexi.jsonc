@@ -1,10 +1,13 @@
 {
   "flexicon": 1,
   "id": "pub.spark.meta.flexicon",
+  "version": "0.1",
   "record": {
+    "required": ["flexicon", "id", "version"],
     "properties": {
       "flexicon": { "type": "integer", "const": 1 },
       "id": { "type": "string", "format": "nsid" },
+      "version": { "type": "string", "format": "semver" },
     }
   }
 }
